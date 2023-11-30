@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: rgb(195, 233, 232);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.logo{
+    width: 300px;
+}
+.menus-container{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    font-size: 17px;
+    color: #000;
+}
+.serch{
+    width: 20px;
+}
+.banner-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0D7B77;
+}
+.banner-img{
+    width:80%;
+}
+.title{
+    font-size: 75px;
+    text-align: left;
+    color: #fff;
+}
+.left-side-container{
+    margin-left: 160px;
+    text-align: left;
+    align-items: left;
+}
+.des{
+    font-size:20px;
+    padding: 10px;
+    color: #fff;
+}
+button{
+    padding: 15px 30px;
+    border: none;
+    background-color: #080242;
+    color: #fff;
+}
+.apt-btn{
+    
+    font-size:20px;
+}
+.trust{
+    font-size:16px;
+    padding: 10px;
+    color: #fff;
+}
+.ce{
+    font-size: 50px;
+}
+.review{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box-1{
+    position: relative;
+    background-color: #fff;
+    width:450px;
+    height: 120px;
+    text-align:center;
+    padding: 20px;
+    box-shadow: 8px 8px 18px rgb(196, 212, 255);
+    border-radius: 7px;
+}
+.clints{
+    margin-top: 0px;
+    text-align: center;
+    background-color: rgb(224, 250, 233);
+}
+.vn{
+    position: relative;
+}
+.name{
+    font-size: 20px;
+}
+.dp{
+    font-size: 14px;
+}
+.cr{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.vn{
+    text-align:center;
+    padding: 20px;
+}
+
+.see{
+    position: relative;
+    margin-left: 0px;
+    align-items: center;
+    font-size:20px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #170992;
+    color: #fff;
+
+}
+.que{
+    align-items: center;
+}
+.ci{
+    text-align: center;
+    font-size: 50px;
+}
+.lw{
+    text-align: center;
+    font-size: 14px;
+}
+.btn{
+    position: relative;
+    margin-left: 46%;
+    align-items: center;
+    font-size:20px;
+    padding: 15px 30px;
+    border: none;
+    background-color: #170992;
+    color: #fff;
+}
+footer{
+    width: 100%;
+    background-color: #0D7877;
+    display: flex;
+    bottom: 0;
+    color: #fff;
+    justify-content: space-around;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 20px;
+}
+.logo1{
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.row{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.col{
+    flex-basis: 15%;
+    padding: 15px;
+}
+.col h3{
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+.copyright{
+    text-align: left;
+    font-size: 10px;
+    margin-left: 120px;
+}
+.social-icons{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 120px;
+    display: flex;
+    gap: 10px;
+    color: #000;
+    margin-top: 50px;
+}
+.ce{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr{
+    color: #d83131;
+    width: 100%;
+    size: 5px;
+    margin: 20px auto;
+    background-color: #0D7877;
+}
